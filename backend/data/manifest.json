@@ -1,0 +1,13 @@
+{
+  "source": "Elexon Insights Solution: FUELHH actuals and WINDFOR evolution",
+  "built_at": "2026-10-25T12:16:59Z",
+  "delivery_from": "2026-01-01",
+  "delivery_to": "2026-01-31",
+  "actual_from": "2025-12-31",
+  "actual_to": "2026-01-31",
+  "actual_rows": 1536,
+  "forecast_rows": 18104,
+  "forecast_hours": 744,
+  "missing_forecast_hours": 0,
+  "missing_hours": []
+}

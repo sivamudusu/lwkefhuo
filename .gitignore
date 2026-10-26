@@ -1,0 +1,31 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Internal agent tooling and the challenge source document
+.agents/
+.claude/
+skills-lock.json
+skills-pack.lock.json
+REint Full Stack SWE challenge*.docx
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+frontend/coverage/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# Backend
+backend/.venv/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/.ty_cache/
+backend/*.egg-info/
+backend/dist/
+backend/build/
+backend/data/*.tmp
