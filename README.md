@@ -228,4 +228,4 @@ the reviewer's shortcut.
 
 ## AI tool disclosure
 
-This project was built with AI assistance. Harness: OpenCode (opencode). Models: free-tier / open-weight models (e.g., openrouter/thinkingmachines/inkling-small:free). All code, design, and documentation were reviewed and verified by the author before submission.
+This project was built with AI assistance. Harness: OpenCode (opencode). Models: free-tier / open-weight models (e.g., Deepseek-v4.1-flash:free). All code, design, and documentation were reviewed and verified by the author before submission.
